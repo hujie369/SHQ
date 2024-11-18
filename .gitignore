@@ -1,0 +1,15 @@
+*.pyc
+
+venv/
+env/
+
+.*.swp
+.*.swo
+.DS_Store
+
+*.pth
+*.log
+
+*.cache
+
+.ipynb_checkpoints/
